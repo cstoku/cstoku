@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/cstoku/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstoku&theme=react" />
 </a>
+<a href="https://github.com/cstoku/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cstoku&theme=react" />
+</a>

@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/cstoku/github-readme-stats">
-  <span>
+  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=cstoku&count_private=true&show_icons=true&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstoku&theme=react" />
-  </span>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cstoku&theme=react" />
 </a>

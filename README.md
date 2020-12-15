@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<a href="https://github.com/cstoku/github-readme-stats">-->
-  <div>
+<a href="https://github.com/cstoku/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cstoku&count_private=true&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cstoku&theme=react" />
-  </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstoku&layout=compact&theme=react" />
-<!--</a>-->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cstoku&theme=react" />
+</a>
